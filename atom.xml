@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nebulora.github.io</id>
+    <title>NE笔记</title>
+    <updated>2025-02-16T07:46:53.613Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://nebulora.github.io"/>
+    <link rel="self" href="https://nebulora.github.io/atom.xml"/>
+    <subtitle>莫道寒枝栖未稳，春来遍野灼新红。</subtitle>
+    <logo>https://nebulora.github.io/images/avatar.png</logo>
+    <icon>https://nebulora.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, NE笔记</rights>
+</feed>
